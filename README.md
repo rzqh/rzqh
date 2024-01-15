@@ -48,6 +48,14 @@
   <img width=390 src="https://github-readme-stats-rzqh.vercel.app/api?username=rzqh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-rzqh.vercel.app/api/top-langs/?username=rzqh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+    
+  <img src="https://github-readme-stats.vercel.app/api?username=rzqh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" width=390 alt="stats graph"  />  
+  <img src="https://streak-stats.demolab.com?user=rzqh&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" width=390 alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzqh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" width=325 alt="languages graph"  />
+</div>
+
+###
 </div>
 
 <br/>
