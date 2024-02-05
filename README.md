@@ -1,38 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rzqh.rzqh" />
-
 <a href='https://www.linkedin.com/in/rizqi-hasanuddin/'>
   <img src='./img/readmebox_rzqh.svg' alt='rzqh header' width='100%' />
 </a>
-  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,python,django,mongodb,mysql,sklearn,tensorflow" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rzqh/rzqh/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>   
-  <img src="https://github-readme-stats.vercel.app/api?username=rzqh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" width=390 alt="stats graph"  />  
-  <img src="https://streak-stats.demolab.com?user=rzqh&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" width=390 alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzqh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" width=325 alt="languages graph"  />
-</div>
-
-<hr/>
 
 <div align="center"> 
  <a href="mailto:rizqih@protonmail.ch" target="_blank">
@@ -49,6 +17,47 @@
   </a>
 </div>
 
- 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rzqh.rzqh" />
+  <img src="https://img.shields.io/github/followers/rzqh label=followers&style=social"/>
+</div>
 
-<br/>
+<h3 align="center">Data Enthusiast | Undergraduate Informatics Engineer | GNU/Linux Nerd</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### About Me 
+
+- My name is `Rizqi Hasanuddin`
+- Live in `Malang, Indonesia`
+- Undergraduate `Informatics Engineer` at `Institut Teknologi dan Bisnis Asia Malang`
+- Currently exploring Ms. Fabric
+- Languages
+  - 🇮🇩 Indonesian
+  - 🇮🇩 Javanese
+  - 🇬🇧 English
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Equipment 
+
+- `Laptop` - Asus Vivobook A409FJ
+  - `CPU` - Intel Core i5-8265U
+  - `RAM` - 12GB DDR4 3200MHz
+  - `GPU` - NVIDIA GeForce MX230
+  - `Operating System` - GNU/Linux
+    - `Distro` - Arch Linux
+    - `Kernel` - 6.6
+    - `DE` - KDE Plasma modificated
+- `Terminal` - Konsole
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>   
+  <img src="https://github-readme-stats.vercel.app/api?username=rzqh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" width=390 alt="stats graph"  />  
+  <img src="https://streak-stats.demolab.com?user=rzqh&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" width=390 alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzqh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" width=325 alt="languages graph"  />
+</div>
+
