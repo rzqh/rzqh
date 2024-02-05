@@ -26,21 +26,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### About Me 
+### About Me 👨🏻
 
-- My name is `Rizqi Hasanuddin`
-- Live in `Malang, Indonesia`
-- Undergraduate `Informatics Engineer` at `Institut Teknologi dan Bisnis Asia Malang`
-- `Data Engineer` Intern at `KGXpress`
-- Currently exploring Ms. Fabric
-- Languages
+- 👨🏻‍💼 My name is `Rizqi Hasanuddin`
+- 🏠 Live in `Malang, Indonesia`
+- 💻 Undergraduate `Informatics Engineer` at `Institut Teknologi dan Bisnis Asia Malang`
+- 💻 `Data Engineer` Intern at `KGXpress`
+- 🌟 Currently exploring Ms. Fabric
+- 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Javanese
   - 🇬🇧 English
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Equipment 
+### Equipment 🧰
 
 - `Laptop` - Asus Vivobook A409FJ
   - `CPU` - Intel Core i5-8265U
