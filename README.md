@@ -31,6 +31,7 @@
 - My name is `Rizqi Hasanuddin`
 - Live in `Malang, Indonesia`
 - Undergraduate `Informatics Engineer` at `Institut Teknologi dan Bisnis Asia Malang`
+- `Data Engineer` Intern at `KGXpress`
 - Currently exploring Ms. Fabric
 - Languages
   - 🇮🇩 Indonesian
