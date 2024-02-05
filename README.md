@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rzqh.rzqh" />
-  <img src="https://img.shields.io/github/followers/rzqh label=followers&style=social"/>
+  <a href="https://github.com/rzqh"><img src="https://img.shields.io/github/followers/rzqh?label=followers&style=social"/></a>
 </div>
 
 <h3 align="center">Data Enthusiast | Undergraduate Informatics Engineer | GNU/Linux Nerd</h3>
