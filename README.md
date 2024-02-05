@@ -53,8 +53,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+### Stats 📋
+
 <div align=center>   
   <img src="https://github-readme-stats.vercel.app/api?username=rzqh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" width=390 alt="stats graph"  />  
   <img src="https://streak-stats.demolab.com?user=rzqh&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" width=390 alt="streak graph"  />
