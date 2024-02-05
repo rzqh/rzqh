@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rzqh.rzqh" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rizqi+Hasanuddin!;" />
-</h1>
+<a href='https://www.linkedin.com/in/rizqi-hasanuddin/'>
+  <img src='./images/readmebox_tfkhdyt.svg' alt='tfkhdyt header' width='100%' />
+</a>
   
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
