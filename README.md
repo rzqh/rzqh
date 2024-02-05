@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rzqh.rzqh" />
 
 <a href='https://www.linkedin.com/in/rizqi-hasanuddin/'>
-  <img src='./images/readmebox_tfkhdyt.svg' alt='tfkhdyt header' width='100%' />
+  <img src='./img/readmebox_rzqh.svg' alt='rzqh header' width='100%' />
 </a>
   
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
