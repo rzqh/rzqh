@@ -63,10 +63,4 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rzqh/rzqh/output/github-contribution-grid-snake-dark.svg" />
 </div>
  
- mosok wes kenek?
- mosok wes kenek??
- mosok wes kenek?
- mosok wes kenek???
- mosok wes kenek??
- mosok wes kenek?
- mosok wes kenek?mosok wes kenek?
+bismillah
