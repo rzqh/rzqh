@@ -41,6 +41,7 @@
 
 ### Equipment 🧰
 
+- `Laptop` - Macbook Air M1
 - `Laptop` - Asus Vivobook A409FJ
   - `CPU` - Intel Core i5-8265U
   - `RAM` - 12GB DDR4 3200MHz
