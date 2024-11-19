@@ -49,7 +49,7 @@
   - `Operating System` - GNU/Linux
     - `Distro` - Arch Linux
     - `Kernel` - 6.6
-    - `DE` - KDE Plasma modificated
+    - `DE` - KDE Plasma (ricing)
 - `Terminal` - Konsole
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
