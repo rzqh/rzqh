@@ -57,8 +57,8 @@
 ### Stats 📋
 
 <div align=center>   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rzqh&theme=shadow_green&hide_border=true&border_radius=5.7&exclude_days=Sun%2CSat&card_width=500&include_all_commits=true&count_private=true" width=390 alt="stats graph"  />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzqh&theme=shadow_green&hide_border=true&border_radius=5.7&exclude_days=Sun%2CSat&card_width=500" width=390 alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzqh&theme=shadow_green&hide_border=true&border_radius=5.7&&card_width=888&exclude_days=Sun%2CSat&include_all_commits=true&count_private=true" height=250rem alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rzqh&theme=nightowl&hide_border=true&border_radius=5.7&exclude_days=Sun%2CSat&card_width=500&include_all_commits=true&count_private=true" width=390 alt="stats graph"  />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzqh&theme=nightowl&hide_border=true&border_radius=5.7&exclude_days=Sun%2CSat&card_width=500" width=390 alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzqh&theme=nightowl&hide_border=true&border_radius=5.7&&card_width=888&exclude_days=Sun%2CSat&include_all_commits=true&count_private=true" height=250rem alt="languages graph"  />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rzqh/rzqh/output/github-contribution-grid-snake-dark.svg" />
 </div>
